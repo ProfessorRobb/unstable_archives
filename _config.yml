@@ -23,7 +23,7 @@ description:      'Testing Data, Metadata, and Aesthetics'
 url:              'https://maxjdugan.github.io/unstablearchives_test/'
 baseurl:          '/unstablearchives_test'
 copyright:        'MaxJDugan 2021'
-logo:             '/assets/logo.png'
+logo:             '/assets/pendant_transparent.png'
 
 # ---------------------------------------------------------------
 # BUILD SETTINGS
@@ -164,6 +164,6 @@ footer:
     - label: 'Contact'
       link: 'https://gitter.im/minicomp/wax/'
   logos:
-    - img: '/img/logo.png'
+    - img: '/img/pendant_transparent.png'
 
 # FIN
