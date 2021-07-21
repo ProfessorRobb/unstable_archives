@@ -139,9 +139,9 @@ menu:
         link: '/credits/'
   - label: 'Exhibits'
     sub:
-      - label: 'Inline Parallax Image'
+      - label: 'UA_SNED_25 W/O TEI'
         link: '/exhibits/a/'
-      - label: 'Inline Image References'
+      - label: 'UA_SNED_25 W/TEI'
         link: '/exhibits/b/'
   - label: 'Browse'
     link: '/collection/'
