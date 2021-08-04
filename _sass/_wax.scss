@@ -106,7 +106,7 @@ content section
   padding-top: $margin;
   padding-bottom: 5rem;
 
-  h1, h2, h3, h4, h5, h5 {
+  h1, h2, h3, h4, h5, h5, {
     margin-bottom: $less-margin;
     margin-top: $more-margin;
     font-family: $heading-font;
@@ -249,8 +249,7 @@ content section
   @extend .container;
 
   margin: 0 auto;
-  max-width: 90%;
-  width: $max-width;
+  width: 80%;
   overflow: flex-wrap;
 }
 
@@ -276,17 +275,17 @@ content section
 
   .parallax-image {
     background-color: $neutral;
-    width: 60%;
+    width: 80%;
     height: $parallax-height;
     max-height: 55vh;
-    margin-left: 20%;
+    margin-left: 10%;
     background-attachment: fixed;
     background-size: cover;
   }
   .parallax-caption {
     margin: 0 auto;
-    width: 60%;
-    margin-right: 20%;
+    width: 80%;
+    margin-right: 10%;
     background-color: $neutral;
     padding: $less-margin 0;
     a {

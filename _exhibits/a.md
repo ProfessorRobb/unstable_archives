@@ -6,18 +6,14 @@ publish_date: 2021-7-20
 permalink: /exhibits/a/
 ---
 
-
-بعرضمیرسآند          خداوند نعمت مستر قطب‌الدّوله بہادر از راہ تفضلات برادر عزیز القدر قایم بیک /گ را
-
 	1
-bih’ʿarz̤ mīrisānad khudāvand-i niʿmat mistar quṭub al-dawlah bahādur az rāh-i tafaz̤ulāt barādar-i ʿazīz al-qadar qāyim bayg rā	1 (transliteration)
 It is petitioned:
 
 Mister (Ducarel) Pole of the State kindly entrusted dear, respected brother [“Aziz ul-qadir" (literally: the beloved of the heart”)] Qaim Beg
 	1 (translation)
 
 
-بخدمت نواب مظفر جنگ صاحب سپردہ دادند و گفتہ دادند کہ آنچه کار خدمت لایق و مناسب میرزا منظور
+<p dir="rtl">بخدمت نواب مظفر جنگ صاحب سپردہ دادند و گفتہ دادند کہ آنچه کار خدمت لایق و مناسب میرزا منظور</p>
 	2
 bih’khidmat-i navāb muẓaffar jang sāhib sipurdah dādand va guftah dādand kih ānchih kār-i khidmat lāʾiq va munāsib-i mīrzā- manẓūr
 	2
