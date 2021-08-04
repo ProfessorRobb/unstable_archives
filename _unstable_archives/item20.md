@@ -39,7 +39,7 @@ place_origin:
 provenance_details:
 language: Persian
 decoration:
-layout: unstable_item
+layout: unstable_archives_item
 hand_script: Persian script
 dimensions: " 6''Wx9.76''L"
 additional_info:

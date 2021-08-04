@@ -36,7 +36,7 @@ place_origin: Sent from ʿAzimabad, i.e. Patna
 provenance_details: Palmer Family Archive, Devon, England
 language:
 decoration: Persian, English
-layout: unstable_item
+layout: unstable_archives_item
 hand_script: Persian shikastah script; English cursive script
 dimensions: 2.9''Wx7.5''L
 additional_info:

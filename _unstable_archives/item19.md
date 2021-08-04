@@ -41,7 +41,7 @@ place_origin: 19A) Sent from ʿAzimabad, ie Patna
 provenance_details: Palmer Family Archive, Devon, England
 language:
 decoration: Persian
-layout: unstable_item
+layout: unstable_archives_item
 hand_script:
 dimensions: 19B) Persian nastaliq script; 19A and 19C Persian shikastah script
 additional_info: 19A) 2.6''Wx6.5''L  19B) 2.8''Wx6''L  19C) 6.2''Wx9.4''L

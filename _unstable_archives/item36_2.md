@@ -37,7 +37,7 @@ place_origin: Gray's Inn, London, England
 provenance_details:
 language: Palmer Family Archive, Devon, England
 decoration: English
-layout: unstable_item
+layout: unstable_archives_item
 hand_script: Cursive English script
 dimensions: Variable
 additional_info: Mr. Foulkes is Archibald Hamilton Foulkes, G.G. Ducarel's son-in-law

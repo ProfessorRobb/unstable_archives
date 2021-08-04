@@ -38,7 +38,7 @@ place_origin: Exmouth, England
 provenance_details:
 language: Palmer Family Archive, Devon, England
 decoration: English
-layout: unstable_item
+layout: unstable_archives_item
 hand_script: Cursive English script
 dimensions: Variable
 additional_info: In 1791, the First French Republic passed a law that if noble emigrants

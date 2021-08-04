@@ -36,7 +36,7 @@ place_origin: England
 provenance_details: Palmer Family Archives, Devon, England
 language: N/A
 decoration:
-layout: unstable_item
+layout: unstable_archives_item
 hand_script: N/A
 dimensions: 2.5''Wx3.5''L
 additional_info: 'The owners of the collection mentioned a few possible names of who

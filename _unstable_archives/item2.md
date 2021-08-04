@@ -40,7 +40,7 @@ language: N/A
 decoration: There are separate patters on each colored part of the cushion. The exact
   depiction cannot be determined but appears to be of a small flower and some species
   of bird.
-layout: unstable_item
+layout: unstable_archives_item
 hand_script: N/A
 dimensions: 16''Wx25''L
 additional_info: '"The woven cover appears to have been manufactured with consideration

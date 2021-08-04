@@ -44,7 +44,7 @@ place_origin:
 provenance_details:
 language: Persian
 decoration:
-layout: unstable_item
+layout: unstable_archives_item
 hand_script: Shakastah Persian script
 dimensions: 15A) 3.1''Wx4.9''L  15B) 3''Wx4.6''L
 additional_info: 'Azimabad is a reference to modern-day Patna. '

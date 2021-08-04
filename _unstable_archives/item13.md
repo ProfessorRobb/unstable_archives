@@ -40,7 +40,7 @@ place_origin: England
 provenance_details: Palmer Family Archive, Devon, England
 language: N/A
 decoration:
-layout: unstable_item
+layout: unstable_archives_item
 hand_script: N/A
 dimensions: 2.5''Wx .3''L
 additional_info: 'Peter Paillou was a well-known miniature painting artist including

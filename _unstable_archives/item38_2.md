@@ -34,7 +34,7 @@ place_origin: England
 provenance_details:
 language: Palmer Family Archive, Devon, England
 decoration: French, English
-layout: unstable_item
+layout: unstable_archives_item
 hand_script: Roundhand English script with some elements of Secretary Hand
 dimensions: Varied
 additional_info: Philip John Ducarel is the son of Gerard Gustavus Ducarel. Reverend

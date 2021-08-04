@@ -38,7 +38,7 @@ language: N/A
 decoration: Four arms laid with amethysts (and possibly red spinel) with turquoise
   forming the inner section and an amethyst at the center, cross-shaped with ornate
   gold cannettille decorations
-layout: unstable_item
+layout: unstable_archives_item
 hand_script: N/A
 dimensions: 2''Wx2''L
 additional_info: '"Note comparison Cantille Example from India: https://www.ebay.com/itm/Amazing-Antique-Victorian-Indian-Mughal-22K-Gold-Turquoise-Drop-Pendant-Necklace-/323792678557;

@@ -33,7 +33,7 @@ place_origin: Exmouth, England
 provenance_details: Palmer Family Archive, Devon, England
 language: English
 decoration: 'Tortoise-shell and ivory inlay '
-layout: unstable_item
+layout: unstable_archives_item
 hand_script: English cursive script
 dimensions: '7''''W x 4.5''''L '
 additional_info: The box is made of tortoise shell and ivory on a wooden base. The

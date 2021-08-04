@@ -35,7 +35,7 @@ place_origin:
 provenance_details:
 language: Persian
 decoration:
-layout: unstable_item
+layout: unstable_archives_item
 hand_script: Persian script
 dimensions: 22A) 2.6''Wx5.3''L  22B)6.6''Wx18.5''L
 additional_info:

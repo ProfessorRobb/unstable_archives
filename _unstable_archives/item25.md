@@ -44,7 +44,7 @@ place_origin: The envelope originated from Azimabad; the letter , which may or m
 provenance_details: Palmer Family Archives
 language: Persian with some Hindi words
 decoration:
-layout: unstable_item
+layout: unstable_archives_item
 hand_script: Shakastah Persian Script
 dimensions: 25A) 2.5''Wx6.2''L  25B)6''Wx19'' L
 additional_info:

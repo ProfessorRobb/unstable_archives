@@ -35,7 +35,7 @@ place_origin: England
 provenance_details:
 language: Palmer Family Archive, Devon, England
 decoration: N/A
-layout: unstable_item
+layout: unstable_archives_item
 hand_script: N/A
 dimensions: Philip Ducarel, son to Gerard Gustavus Ducarel and Elizabeth Sharaf un-Nisa,
   was a landowner, businessman, magistrate, and poet. Portrait miniatures were popular

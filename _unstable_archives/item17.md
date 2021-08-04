@@ -38,7 +38,7 @@ place_origin:
 provenance_details:
 language: Persian
 decoration:
-layout: unstable_item
+layout: unstable_archives_item
 hand_script: Persian script
 dimensions: 3''Wx4.5''L (folded); 5.8''Wx17''L (unfolded)
 additional_info:

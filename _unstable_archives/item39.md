@@ -40,7 +40,7 @@ place_origin: Bengal, South Asian subcontinent
 provenance_details:
 language: Palmer Family Archive, Devon, England
 decoration: English
-layout: unstable_item
+layout: unstable_archives_item
 hand_script: Print
 dimensions: Beetlewing embroidery is a traditional craft practiced in India and several
   other Asian countries that used the wing casings of iridescent beetles. Beetles

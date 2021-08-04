@@ -35,7 +35,7 @@ place_origin: Unknown
 provenance_details: Palmer Family Archive, Devon, England
 language:
 decoration: Persian, English
-layout: unstable_item
+layout: unstable_archives_item
 hand_script: Persian nastaliq script; English cursive script
 dimensions: 3''Wx5.1''L
 additional_info:

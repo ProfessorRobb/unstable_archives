@@ -35,7 +35,7 @@ place_origin: Exmouth, England
 provenance_details:
 language: Palmer Family Archive, Devon, England
 decoration: English
-layout: unstable_item
+layout: unstable_archives_item
 hand_script: Cursive English script
 dimensions: Variable
 additional_info: Elizabeth is the name of Elizabeth Ducarel's daughter, whom she had

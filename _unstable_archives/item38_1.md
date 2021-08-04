@@ -34,7 +34,7 @@ place_origin: Great Britain
 provenance_details:
 language: Palmer Family Archive, Devon, England
 decoration: English
-layout: unstable_item
+layout: unstable_archives_item
 hand_script: Cursive English script, print
 dimensions: Varied
 additional_info: Bonds were loan contracts with an obligation to return the borrowed

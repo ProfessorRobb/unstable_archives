@@ -36,7 +36,7 @@ place_origin: 'Serampore, Indian subcontinent '
 provenance_details:
 language: Palmer Family Archive, Devon, England
 decoration: English
-layout: unstable_item
+layout: unstable_archives_item
 hand_script: Cursive English Script
 dimensions: 25cm
 additional_info:

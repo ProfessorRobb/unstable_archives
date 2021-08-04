@@ -36,7 +36,7 @@ place_origin:
 provenance_details:
 language: Persian
 decoration:
-layout: unstable_item
+layout: unstable_archives_item
 hand_script: Shakasta Persian script
 dimensions: 16A) 3.5''Wx7.4''L  16B)5.9''Wx14''L
 additional_info:

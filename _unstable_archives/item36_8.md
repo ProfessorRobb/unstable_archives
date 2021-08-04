@@ -35,7 +35,7 @@ place_origin: Great Britan
 provenance_details:
 language: Palmer Family Archive, Devon, England
 decoration: English
-layout: unstable_item
+layout: unstable_archives_item
 hand_script: Cursive English script
 dimensions: Variable
 additional_info: In 1793, Great Britain passed the Alien Act to regulate the numbers

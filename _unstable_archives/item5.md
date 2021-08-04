@@ -37,7 +37,7 @@ place_origin: South Asian subcontinent
 provenance_details: Palmer Family Archive, Devon, England
 language: N/A
 decoration:
-layout: unstable_item
+layout: unstable_archives_item
 hand_script:
 dimensions: " 2''Wx3.4''L "
 additional_info: Velvet historically has been expensive due to the special loom required

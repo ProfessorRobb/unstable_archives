@@ -39,7 +39,7 @@ place_origin: Unknown
 provenance_details: '"Palmer Family Archive, Devon, England"'
 language: N/A
 decoration: N/A
-layout: unstable_item
+layout: unstable_archives_item
 hand_script: N/A
 dimensions: 1.6''W x3''L
 additional_info: '"Atr, or a Persian term for perfume, starting in the 17th century

@@ -37,7 +37,7 @@ place_origin: Persia or South Asia
 provenance_details: '"Palmer Family Archive, Devon, England"'
 language: N/A
 decoration: '"Small circles along the circumference, and circular ridges"'
-layout: unstable_item
+layout: unstable_archives_item
 hand_script: N/A
 dimensions: Diameter 1.5'' (wafer thin)
 additional_info: '"Ivory can be produced from the teeth and tusks of any sufficient

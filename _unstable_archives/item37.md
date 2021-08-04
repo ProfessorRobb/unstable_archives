@@ -36,7 +36,7 @@ provenance_details: '"Palmer Family Archive, Devon, England"'
 language: N/A
 decoration: Gold and silver cloth appliqued with emerald-colored beetle wings in the
   shape of flowers.
-layout: unstable_item
+layout: unstable_archives_item
 hand_script: 31''L
 dimensions: Beetlewing embroidery is a traditional craft practiced in India and several
   other Asian countries that used the wing casings of iridescent beetles. Beetles

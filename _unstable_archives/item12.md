@@ -34,7 +34,7 @@ place_origin:
 provenance_details: Palmer Family Archives, Devon, England
 language: N/A
 decoration:
-layout: unstable_item
+layout: unstable_archives_item
 hand_script: N/A
 dimensions: 18''L
 additional_info: Geometric designs are common in many forms of Islamic art. The box

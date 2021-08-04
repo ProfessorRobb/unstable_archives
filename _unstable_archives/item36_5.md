@@ -37,7 +37,7 @@ place_origin: Hamburg, Holy Roman Empire
 provenance_details:
 language: Palmer Family Archive, Devon, England
 decoration: English
-layout: unstable_item
+layout: unstable_archives_item
 hand_script: Cursive English script
 dimensions: Variable
 additional_info: Elizabeth, or Baby Foulkes, is G.G. Ducarel's grandaughter, borne

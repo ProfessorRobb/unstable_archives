@@ -35,7 +35,7 @@ provenance_details: Palmer Family Archives, Devon, England
 language: N/A
 decoration: Small holes lining around the circumference, and the bouquet makes up
   the center
-layout: unstable_item
+layout: unstable_archives_item
 hand_script: N/A
 dimensions: 1.5'' in diameter
 additional_info: 'Ivory can be produced from the teeth and tusks of any sufficient

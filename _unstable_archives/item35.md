@@ -43,7 +43,7 @@ place_origin: 35A) The envelope says it was sent from Calcutta.
 provenance_details: Palmer Family Archive, Devon, England
 language:
 decoration: Persian, English
-layout: unstable_item
+layout: unstable_archives_item
 hand_script: Persian shikastah script; cursive English script
 dimensions: '35A) 3.6''''Wx6.1''''L  35B) 3.1''''Wx6.8''''L
 

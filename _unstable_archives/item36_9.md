@@ -34,7 +34,7 @@ place_origin:
 provenance_details:
 language: Palmer Family Archive, Devon, England
 decoration: French
-layout: unstable_item
+layout: unstable_archives_item
 hand_script:
 dimensions: 23cm
 additional_info:

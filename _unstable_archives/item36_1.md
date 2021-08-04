@@ -34,7 +34,7 @@ place_origin:
 provenance_details:
 language:
 decoration:
-layout: unstable_item
+layout: unstable_archives_item
 hand_script: Variable
 dimensions:
 additional_info:
