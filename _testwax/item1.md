@@ -152,7 +152,7 @@ place_origin: '"Exmouth, England"'
 provenance_details: '"Palmer Family Archive, Devon, England"'
 language: English
 decoration: 'The notebook has marbling on the front and back covers. '
-layout: testwax_item
+layout: unstable_archives_item
 hand_script: Cursive English Script
 dimensions: '6.5''''W x 8''''L '
 additional_info: '"The penmanship book was sold by a Shirley Woolmer, who also served
@@ -198,7 +198,7 @@ copyright_statement: https://drive.google.com/file/d/1jHhRMTasCxavoYer89Wn8_Xn65
 terms_use:
 images: dml0001-dml0100
 order: '0'
-collection: testwax
+collection: unstable_archives
 thumbnail: "/img/derivatives/iiif/images/item1_a/full/250,/0/default.jpg"
 full: "/img/derivatives/iiif/images/item1_a/full/1140,/0/default.jpg"
 manifest: "/img/derivatives/iiif/item1/manifest.json"

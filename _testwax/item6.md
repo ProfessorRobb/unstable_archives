@@ -39,7 +39,7 @@ provenance_details: '"Palmer Family Archive, Devon, England"'
 language: N/A
 decoration: Pear shaped pendant, with turquoise forming the outer layer and ruby/red
   spinel and pearls inside, with a large stone (either ruby or carnelian) as the centerpiece
-layout: testwax_item
+layout: unstable_archives_item
 hand_script: N/A
 dimensions: 1.5''Wx1.8''L
 additional_info: '"During the Georgian era, gold alloys in jewelry usually were 18
@@ -58,7 +58,7 @@ copyright_statement: https://drive.google.com/file/d/1jHhRMTasCxavoYer89Wn8_Xn65
 terms_use:
 images: dml0168-dml0169
 order: '3'
-collection: testwax
+collection: unstable_archives
 thumbnail: "/img/derivatives/iiif/images/item6/full/250,/0/default.jpg"
 full: "/img/derivatives/iiif/images/item6/full/1140,/0/default.jpg"
 manifest: "/img/derivatives/iiif/item6/manifest.json"

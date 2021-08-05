@@ -41,7 +41,7 @@ place_origin: Persia
 provenance_details: '"Palmer Family Archive, Devon, England"'
 language: Persian
 decoration: N/A
-layout: testwax_item
+layout: unstable_archives_item
 hand_script: Persian script
 dimensions: ".6''Wx .6''L"
 additional_info: '"This seal resembles the following examples of carnelian Persian
@@ -64,7 +64,7 @@ copyright_statement: https://drive.google.com/file/d/1jHhRMTasCxavoYer89Wn8_Xn65
 terms_use:
 images: dml0153-0157
 order: '6'
-collection: testwax
+collection: unstable_archives
 thumbnail: "/img/derivatives/iiif/images/item11/full/250,/0/default.jpg"
 full: "/img/derivatives/iiif/images/item11/full/1140,/0/default.jpg"
 manifest: "/img/derivatives/iiif/item11/manifest.json"

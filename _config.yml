@@ -18,11 +18,11 @@
 # Feel free to change these! For more info, refer to:
 # ~> https://jekyllrb.com/docs/configuration/options/
 
-title:            'Unstable Archives Test 1'
-description:      'Testing Data, Metadata, and Aesthetics'
-url:              'https://maxjdugan.github.io/unstablearchives_test/'
-baseurl:          '/unstablearchives_test'
-copyright:        'MaxJDugan 2021'
+title:            'Unstable Archives'
+description:      'PLACEHOLDER'
+url:              'https://maxjdugan.github.io/unstable_archives'
+baseurl:          '/unstable_archives'
+copyright:        'Megan Eaton Robb'
 logo:             '/assets/pendant_transparent.png'
 
 # ---------------------------------------------------------------
@@ -64,13 +64,13 @@ kramdown:
 collections:
   exhibits:
     output: true
-  testwax: # name of collection
+  unstable_archives: # name of collection
     output: true # makes sure pages are output as html files
-    layout: 'testwax_item' # the layout for the pages to use
+    layout: 'unstable_archives_item' # the layout for the pages to use
     metadata:
-      source: 'testwax.csv' # path to the metadata file within `_data`
+      source: 'unstable_archives.csv' # path to the metadata file within `_data`
     images:
-      source: 'raw_images/testitems' # path to the directory of images within `_data`
+      source: 'raw_images/ua_directory' # path to the directory of images within `_data`
 
 # --------------------------------------------------------------
 # SEARCH INDEX SETTINGS
@@ -84,7 +84,7 @@ search:
   main:
     index: '/search/index.json' # file the index will get written to
     collections:
-      testwax:
+      unstable_archives:
         content: true # whether or not to index page content
         fields: # the metadata fields to index
           - label

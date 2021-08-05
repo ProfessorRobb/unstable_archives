@@ -56,7 +56,7 @@ place_origin: Persia
 provenance_details: '"Palmer Family Archive, Devon, England"'
 language: Persian
 decoration: N/A
-layout: testwax_item
+layout: unstable_archives_item
 hand_script: Persian script
 dimensions: 5.6''Wx8.6''L
 additional_info: lorem ipsum
@@ -65,7 +65,7 @@ copyright_statement: https://drive.google.com/file/d/1jHhRMTasCxavoYer89Wn8_Xn65
 terms_use:
 images: dml0178-dml0181
 order: '7'
-collection: testwax
+collection: unstable_archives
 thumbnail: "/img/derivatives/iiif/images/item14_image0178/full/250,/0/default.jpg"
 full: "/img/derivatives/iiif/images/item14_image0178/full/1140,/0/default.jpg"
 manifest: "/img/derivatives/iiif/item14/manifest.json"

@@ -6,18 +6,52 @@ publish_date: 2018-11-15
 permalink: /exhibits/b/
 ---
 
-بعرضمیرسآند          خداوند نعمت مستر قطب‌الدّوله بهادر از راه تفضلات برادر عزیز القدر قایم بیک را <lb/>
+<h1>Header 1</h1>
+
+<h2>Header 2</h2>
+
+<h3>Header 3</h3>
+
+<h4>Header 4</h4>
+
+<h5>Header 5</h5>
+
+<h6>Header 6</h6>
+
+
+
+<p>And this is a test to see how a <h4>Header 4 font</h4> renders when it is in a paragraph</p>
+
+<p>Linebreak test: let's see <br> how this neat linebreak haiku <br> displays in our Wax </p>
+
+<p>This is a paragraph with the appropriate tags opening and closing tags</p>
+
+<p>This is what a paragraph looks like with <b>ONLY</b> the opening tag. Here's the issue: without specifying a paragraph end, HTML will read the paragraph as continuing even if I differentiate the paragraph lines.
+
+ This is what a paragraph looks like without the tags. It's probably the same as the above one, but there are always good reasons to use the proper HTML markers.
+
+<p>This is what a <pre>preformmated</pre> tag looks like. It creates a double line break, switches the font to monospace (see bootstrap line 193) and makes the font 87.5% of its original size (bootstrap lines 533-539). </p>
+
+<p>Illegible test: this is what it looks like to tag <span style="color:red"><u>nā khvānah</u></span> words in the Wax</p>
+
+<p>Want to mark some words as <span style="color:gray">unclear</span>? This is what the current tag looks like.</p>
+
+<p>This is what the current <span style="color:orange">DELETED WORDS</span> will look like in Wax.</p>
+
+<p>Underlined words are pretty straightforward. They <u>look like this</u>.</p>
+
+
 1
+<br>
+<p style="text-align:right;"> بعرضمیرسآند          خداوند نعمت مستر قطب‌الدّوله بهادر از راه تفضلات برادر عزیز القدر قایم بیک را </p><br/>
 bih’ʿarz̤ mīrisānad khudāvand-i niʿmat mistar quṭub al-dawlah bahādur az rāh-i tafaz̤ulāt barādar-i ʿazīz al-qadar qāyim bayg rā <lb/>
-1 (transliteration)
+
 It is petitioned:
-
-
-Mister (Ducarel) Pole of the State kindly entrusted dear, respected brother [“Aziz ul-qadir" (literally: the beloved of the heart”)]<lb Qaim Beg  
-
+Mister (Ducarel) Pole of the State kindly entrusted dear, respected brother [“Aziz ul-qadir" (literally: the beloved of the heart”)] Qaim Beg <lb/>
+<lb/>
 
 1 (translation)
-بخدمت نواب مظفرجنگ صاحب سپرده دادند و گفته دادند که آنچه کار خدمت لایق و مناسب میرزا منظور <lb/>
+<span style="direction:rtl">بخدمت نواب مظفرجنگ صاحب سپرده دادند و گفته دادند که آنچه کار خدمت لایق و مناسب میرزا منظور </span><br/>
 2
 bih’khidmat-i navāb muẓaffar jang sāhib sipurdah dādand va guftah dādand kih ānchih kār-i khidmat lāʾiq va munāsib-i mīrzā-i manẓūr <lb/>
 
