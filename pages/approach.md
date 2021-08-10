@@ -12,26 +12,26 @@ permalink: /approach/
 <br>
 <p>Sources such as Elizabeth Sharaf un-Nisa’s letters and material belongings are rare in the history of South Asia and as such, networks of mobility and correspondence in women’s lives remain under-studied. These sources are key to emergent historical geographies of imperial formation that account not only for macro-processes occurring in official circles but for individual and embodied experiences that often complicate larger narratives. These materials are held in the UK by family members of these two women and therefore are not available in any public archive. Our project is a pioneering effort to digitise and ingest the digital copies of these materials (physical copies will continue to be held by the families) into the catalogue of the University of Pennsylvania Library Services. While this website will offer a digital exhibit highlighting the riches of this collection, eventually the archive will be hosted permanently on the University of Pennsylvania’s OPenn platform.
 <br>
-## Project Objectives
+##Project Objectives
 <br>
 <p>We aim to develop best practices for developing digital methods to build a researcher-driven platform archiving multilingual and multimedia materials important to the study of gender in colonial India. This project represents a pioneering attempt to create a born-digital archive streamlined with university library catalogues at the University of Pennsylvania – including materials that are not physically present in these library holdings. In this we have the following goals:
 <br>
-<p>__Under-examined Archives__
+__Under-examined Archives__
 <br>
 <p>To build legitimacy for ‘non-official’ and everyday materials – particularly those pertaining to women – as historical sources and make them available in publicly-accessible and reputable archival catalogues. This will enrich the range of narratives that currently inform historical geographies and material histories of gender.
 <br>
-<p>__Best Practices for Ethical Engagement with Family Archives__
+__Best Practices for Ethical Engagement with Family Archives__
 <br>
 <p>To use digital technology to bring into public use materials that hold affective value for families without permanently removing them from their location in family homes. This speaks to a growing debate in the social sciences and humanities on the ethical import of removing objects from the ecologies where they hold meaning, for research in ostensibly neutral environments where they are classified and labelled. Digitising allows us to account for these ‘home ecologies’ where the objects dwell and simultaneously make them available and visible as sources of historical importance to the study of a much under-researched field. The overall goal is to develop an archive that is inclusive and offers a wider range of historical sources that accommodate the significance of gender in colonial contexts.
 <br>
-<p>__Challenging Imaginaries of Women as Static__
+__Challenging Imaginaries of Women as Static__
 <br>
 <p>To generate an understanding of gender in the historical geographies of imperial travel between South Asia and Britain through the perspective of a South Asian woman who migrated to Britain at the beginning of British colonial rule. These letters are indicative of the transnational networks that emerged in the context of imperialism and challenge imaginaries of women – both British and Indian – as static.
 <br>
-<p>__A First Step to Wider Engagement__
+__A First Step to Wider Engagement__
 <br>
 <p>To use the digitisation of the collections described above as an opening point from which to develop an application for a larger project that will solicit and digitise further materials pertaining to women’s mobility in the context of Britain’s imperial relationship with South Asia. We hope to cultivate opportunities for multi-institutional collaboration in research and research-led teaching. If you are interested in collaborating in the development of this project, or having one of our team speak at your institution or seminar, please contact us [include hyperlink].
 <br>
 
 
-## [NEW PAGE: Teaching Resources]
+## NEW PAGE: Teaching Resources
