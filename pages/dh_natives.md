@@ -5,17 +5,17 @@ author: Megan Eaton Robb
 publish_date: 2021-08-10
 permalink: /dh_natives/
 ---
-## Working with Family Archives:Developing Ethical Practices
+<h2>Working with Family Archives:Developing Ethical Practices</h2>
 
-### Transparency
+<h3>Transparency</h3>
 
 <p>The Unstable Archives Project borrowed the materials in the Palmer Family Archives from January 2020 until May 2021. The material traveled with Megan Robb from the family home to the project office at the University of Oxford. While the archiving and digitization process was underway the materials were stored in a secure office at the University of Oxford and stewarded by Sneha Krishnan. After receiving a rough valuation of the materials from the family, the University of Oxford insured the materials in case of damage and offered a secure office for their storage on the campus, with the family being given a copy of the insurance guarantee. When a member of the family changed their mind and requested one item in the collection back in May 2020, the project immediately arranged for its safe return. In other words, family members could request artifacts back or decide not to digitize the items in their family collection at any time in the course of the project. Now that the Palmers are once again in possession of Elizabeth Sharaf un-Nisa’s archive, they may decide to keep, bequeath, or donate the materials.</p>
 
-### Affect and Access
+<h3>Affect and Access</h3>
 
 <p>Born-digital archives allow families to balance competing commitments to facilitating valuable research while keeping treasured family archives in the home long-term. Born-digital archives allow greater access to scholars who may be interested in researching a valuable family archive. Access to a born-digital archive is not dependent on a scholars’ ability to travel to the country where the archive lives, to negotiate access to the family home, and on the family’s ability to host multiple scholarly visitors. By loaning family archival materials for the creation of a born-digital archive, scholars can access a valuable archive using an open-source website while family members are not put in the position of choosing who is permitted access to the items, since access is universal. Materials in family archives may be more likely to host unconventional archival materials organized around particular figures, rather than being organized according to genre conventions or medium (as happens in some archival or library institutions). This form of affective organization offers opportunities for a re-thinking of the archive across multiple media and languages, while highlighting the role of family construction in the construction of imperial ambitions.</p>
 
-### Case Study: The Palmer Family Archive
+<h3>Case Study: The Palmer Family Archive</h3>
 
 <p>Dowager Lady Palmer and her husband, the late Lord Palmer, loaned a treasured family collection to the Unstable Archives project. Dowager Lady Palmer below has written an account of their journey to learn more about an ancestor about whom little was known, Elizabeth Sharaf un-Nisa Ducarel. One aim of this project is to establish a model for working ethically with families whose private archives are important to scholarship but also hold affective value for family members who may wish to keep the items in the household, or to donate them to local archives scholars may have difficulty accessing.</p>
 
