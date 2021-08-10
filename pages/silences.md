@@ -3,7 +3,7 @@ layout: exhibit
 title: 'Testing UA_SNED_25 With TEI-Compliant Coding'
 author: ماكس دوغن
 publish_date: 2018-11-15
-permalink: /timeline/
+permalink: /silences/
 ---
 
 <h1>Header 1</h1>
