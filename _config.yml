@@ -163,6 +163,8 @@ menu:
         link: '/scholarship/'
       - label: 'Silences'
         link: '/silences/'
+      - label: 'Our Approach'
+        link: '/approach/'
   - label: 'Browse'
     sub:
       - label: 'Browse'
