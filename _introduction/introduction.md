@@ -3,7 +3,7 @@ layout: exhibit
 title: 'Testing UA_SNED_25 Without TEI-Compliant Coding'
 author: ماکس دوگن
 publish_date: 2021-7-20
-permalink: /exhibits/a/
+permalink: /introduction/
 ---
 
 	1
