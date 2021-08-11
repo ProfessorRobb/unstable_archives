@@ -3,7 +3,7 @@ layout: exhibit
 title: 'Digital Humanities and Family Archives'
 author: Megan Eaton Robb
 publish_date: 2021-08-10
-permalink: /dh_natives/
+permalink: /dh_family_archives/
 ---
 <h2>Working with Family Archives:Developing Ethical Practices</h2>
 
@@ -21,8 +21,7 @@ permalink: /dh_natives/
 
 <p>Dowager Lady Palmer has given us permission to share her account below. She and her late husband, as well as an enthusiastic member of their extended family, Fergus Madden, became passionate about learning more about the significance of this little understood figure in their family’s past. They sought out help from scholars to understand their family archive better, particularly a collection of 18th-century Persian letters that were indecipherable. It is apparent from the below account that in the Palmer family, Elizabeth Sharaf un-Nisa is part of a lineage whose history holds great importance for the present members of the family. It is also apparent that discovery of materials within the family depended upon serendipity and chance; research on any family archive requires acknowledging and accommodating silences and erasures.</p>
 
-<blockquote>“It was not until my husband John, retired in 1990 and we settled in Devon that we opened a<br>
-large box marked ‘archives’, and what a fascinating box it has proved to be.</blockquote><br>
+> <p>“It was not until my husband John, retired in 1990 and we settled in Devon that we opened a large box marked ‘archives’, and what a fascinating box it has proved to be.<br>
 Half the Ducarel archives were there, including the bundle of Persian letters, together with a note to say the rest of the archives were in Gloucester.
 <br>
 <blockquote>We had also inherited several portraits and found others on an Uncle’s garage floor, in most
