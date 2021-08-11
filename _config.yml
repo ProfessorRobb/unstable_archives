@@ -155,8 +155,8 @@ menu:
         link: '/exhibits/law_land/'
   - label: 'Scholarship'
     sub:
-      - label: 'DH & Natives'
-        link: '/dh_natives/'
+      - label: 'DH & Family Archives'
+        link: '/dh_family_archives/'
       - label: 'Stakes & Literature'
         link: '/stakes_literature/'
       - label: 'Scholarship'
