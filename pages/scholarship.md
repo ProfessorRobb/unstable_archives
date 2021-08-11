@@ -6,9 +6,9 @@ publish_date: 2021-7-20
 permalink: /scholarship/
 ---
 <br>
-<p>Arondekar, Anjali. <i>For the Record: On Sexuality and the Colonial Archive in India</i> (Durham, N.C.: Duke University Press, 2009).</p>
-<p>Beveridge, ​​H. “Old Places in Murshidabad, No. II,” <i>Calcutta Review</i> 95, no. 190 (October 1982).</p>
-<p>Busteed, H. E. <i>Echoes from Old Calcutta: Being Chiefly Reminiscences of the Days of Warren Hastings, Francis and Impey</i> 2nd ed. (Calcutta: Thacker, Spink & Col, 1888).</p>
+<p class="hangingindent">Arondekar, Anjali. <i>For the Record: On Sexuality and the Colonial Archive in India</i> (Durham, N.C.: Duke University Press, 2009).</p>
+<p class="hangingindent">Beveridge, ​​H. “Old Places in Murshidabad, No. II,” <i>Calcutta Review</i> 95, no. 190 (October 1982).</p>
+<p class="hangingindent">Busteed, H. E. <i>Echoes from Old Calcutta: Being Chiefly Reminiscences of the Days of Warren Hastings, Francis and Impey</i> 2nd ed. (Calcutta: Thacker, Spink & Col, 1888).</p>
 <p>Chatterjee, Indrani. <i>Gender, Slavery and Law in Colonial India</i> (New York: Oxford University Press, 1999).</p>
 <p>Chatterjee, Nandini. “Muslim or Christian? Family Quarrels and Religious Diagnosis in a Colonial Court,” <i>American Historical Review</i> 117, no. 4 (October 2012): 1101-1122.</p>
 <p>Dalrymple, William. <i>White Mughals</i> (New York: Penguin, 2003).</p>
