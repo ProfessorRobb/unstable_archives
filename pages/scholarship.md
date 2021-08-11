@@ -6,7 +6,7 @@ publish_date: 2021-7-20
 permalink: /scholarship/
 ---
 <br>
-<p>Arondekar, Anjali. *For the Record: On Sexuality and the Colonial Archive in India* (Durham, N.C.: Duke University Press, 2009).</p>
+<p>Arondekar, Anjali. <i>For the Record: On Sexuality and the Colonial Archive in India</i> (Durham, N.C.: Duke University Press, 2009).</p>
 <br>
 <p>Beveridge, ​​H. “Old Places in Murshidabad, No. II,” *Calcutta Review* 95, no. 190 (October 1982).</p>
 <br>
