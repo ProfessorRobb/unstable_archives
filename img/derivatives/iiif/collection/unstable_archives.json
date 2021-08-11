@@ -228,6 +228,11 @@ layout: none
       "label": "item6"
     },
     {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/item1/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "item1"
+    },
+    {
       "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/item8/manifest.json",
       "@type": "sc:Manifest",
       "label": "item8"
