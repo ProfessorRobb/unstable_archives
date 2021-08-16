@@ -40,9 +40,8 @@ p {
   text-rendering: optimizeLegibility;
 }
 
-p.hangingindent {
+p.quotationindent {
   padding-left: 22px ;
-  text-indent: -22px ;
   color: $text-color;
   max-width: 100%;
   margin-bottom: $less-margin;
