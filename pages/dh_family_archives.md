@@ -28,3 +28,4 @@ permalink: /dh_family_archives/
 <p class="quotation">The other crucial stroke of good fortune was a visit from a distant Ducarel cousin who showed great interest in the Persian letters and so it was Fergus Madden who first made contact with Megan Eaton - Robb whose enthusiasm has carried the project forward. We are all deeply indebted to her and all her colleagues.”</p>
 
 <img src="https://github.com/unstable-archives/unstable_archives/blob/main/IMG_0836.jpg?raw=true" alt="The Palmers in an undated photograph">
+<p>The Palmers in an undated photograph</p>
