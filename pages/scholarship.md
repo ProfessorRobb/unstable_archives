@@ -5,7 +5,6 @@ author: Megan Eaton Robb
 publish_date: 2021-7-20
 permalink: /scholarship/
 ---
-<br>
 <p class="hang">Arondekar, Anjali. <i>For the Record: On Sexuality and the Colonial Archive in India</i> (Durham, N.C.: Duke University Press, 2009).</p>
 <p class="hang">Beveridge, ​​H. “Old Places in Murshidabad, No. II,” <i>Calcutta Review</i> 95, no. 190 (October 1982).</p>
 <p class="hang">Busteed, H. E. <i>Echoes from Old Calcutta: Being Chiefly Reminiscences of the Days of Warren Hastings, Francis and Impey</i> 2nd ed. (Calcutta: Thacker, Spink & Col, 1888).</p>

@@ -11,6 +11,6 @@ permalink: /silences/
 <p>The approach of this digital archive has much in common with Morak’s revisionist approach, in that it asks “what can we learn from new material scholars have not yet considered? How might these new sources  complicate existing narratives and posit more productive explanations for how women lived in relationships of cohabitation?” However, there are also several risks posed by the approach that we remain guarded against. Company servants’ deep, even intimate knowledge of a locality (represented most evocatively through cohabitations with women) did not erase the inescapable dynamics of imperial power. Nor did the existence of sentiment render relationships with native women equal or ipso facto confer upon the women uncommon power.[^3] This archive, and the research growing out of it, is the latest iteration of what should be an on-going, ever-unfolding conversation about women who could wield social and political power within the strict confines of imperial power dynamics.</p>
 <br>
 ### References
-[1]: The phrase “end of the story” is taken from Spivak, p. 270.
-[2]: (Morak, 329).
-[3]: Ghosh has pointed out that sentiment was an important element of justifying a patriarch’s duties and rights to the females under his care/control.
+[^1]: The phrase “end of the story” is taken from Spivak, p. 270.
+[^2]: (Morak, 329).
+[^3]: Ghosh has pointed out that sentiment was an important element of justifying a patriarch’s duties and rights to the females under his care/control.
