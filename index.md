@@ -12,4 +12,4 @@ banner:
 
 ### Browse the Collection
 
-{% include collection_gallery.html facet_by='object_type1' collection='unstable_archives' %}
+{% include collection_gallery.html collection='unstable_archives' %}
